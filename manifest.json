@@ -1,0 +1,20 @@
+{
+    "name": "Skeleton Telemetry Progressive Web App",
+    "short_name": "Skeleton Telemetry PWA",
+    "start_url": "/index.html",
+    "background_color": "#f9fcfb",
+    "theme_color": "#037bfc",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "src/icon_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "src/icon_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
