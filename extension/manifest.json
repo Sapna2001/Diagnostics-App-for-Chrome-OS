@@ -1,0 +1,21 @@
+{
+    "manifest_version" : 2,
+    "name" : "System Info Chrome Extension",
+    "description": "A chrome extension which periodically fetches system info",
+    "version": "1",
+    "permissions":["system.cpu","system.memory","system.display"],
+    "content_scripts":[
+        {
+            "matches":[
+                "<all_urls>"
+            ],
+            "js":["content.js"]
+        }
+    ],
+    "background":{
+        "scripts":["background.js"]
+    },
+    "browser_action":{
+        
+    }
+}
