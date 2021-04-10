@@ -6,8 +6,8 @@ Milestone 1: Create a skeleton Telemetry Progressive Web App</br>
 Milestone 2: Create a simple Chrome Extension</br>
 Milestone 3: Enable the PWA and Chrome Extension to communicate with each other
 
-## Explaination
-- I have used HTML, CSS, and JavaScript for the completing the project. 
+## Task Details
+- I have used HTML, CSS, and JavaScript for completing the project. 
 - Details of the PWA is stored in the manifest.json which has the details about the extension
 - For cache data, service-worker.js is used
 - Systeminfo API is used to fetch details from system
