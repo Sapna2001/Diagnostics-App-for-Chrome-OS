@@ -2,8 +2,8 @@
 ![workingDemo](src/workingDemo.png)
 
 ## Milestones:
-Milestone 1: Create a skeleton Telemetry Progressive Web App 
-Milestone 2: Create a simple Chrome Extension
+Milestone 1: Create a skeleton Telemetry Progressive Web App</br>
+Milestone 2: Create a simple Chrome Extension</br>
 Milestone 3: Enable the PWA and Chrome Extension to communicate with each other
 
 ## Explaination
