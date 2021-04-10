@@ -17,5 +17,5 @@ Milestone 3: Enable the PWA and Chrome Extension to communicate with each other
 
 ## Video Demo
 The video contains the working demo of the PWA.
-[YouTube Link](https://youtu.be/uzX7XGUo9As)
+[YouTube Link](https://youtu.be/07KvwVTxNV8)
 
